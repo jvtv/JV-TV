@@ -1,1 +1,248 @@
 # JV-TV
+#EXTM3U
+
+#EXTINF:0, |PT-TEMP| � RTP 1 HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1405.ts
+#EXTINF:0, |PT-TEMP| � RTP 1
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1790.ts
+#EXTINF:0, |PT-TEMP| � RTP 2 HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1406.ts
+#EXTINF:0, |PT-TEMP| � RTP 2
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1407.ts
+#EXTINF:0, |PT-TEMP| � RTP 3
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1408.ts
+#EXTINF:0, |PT-TEMP| � SIC HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1409.ts
+#EXTINF:0, |PT-TEMP| � SIC
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1410.ts
+#EXTINF:0, |PT-TEMP| � TVI ( sd )
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1416.ts
+#EXTINF:0, |PT-TEMP| � TVI HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1413.ts
+#EXTINF:0, |PT-TEMP| � http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1792.ts
+#EXTINF:0, |PT-TEMP| � SIC NOTICIAS
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1417.ts
+#EXTINF:0, |PT-TEMP| � TVI 24
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1418.ts
+#EXTINF:0, |PT-TEMP| � CMTV
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1419.ts
+#EXTINF:0, |PT-TEMP| � PORTO CANAL
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1420.ts
+#EXTINF:0, |PT-TEMP| � CNN
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1421.ts
+#EXTINF:0, |PT-TEMP| � http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1795.ts
+#EXTINF:0, |PT-TEMP| � SIC RADICAL
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1422.ts
+#EXTINF:0, |PT-TEMP| � SIC MULHER
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1423.ts
+#EXTINF:0, |PT-TEMP| � SIC CARAS
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1424.ts
+#EXTINF:0, |PT-TEMP| � TVI FICCAO
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1425.ts
+#EXTINF:0, |PT-TEMP| � TVI REALITY
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1426.ts
+#EXTINF:0, |PT-TEMP| � 24 KITCHEN HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1427.ts
+#EXTINF:0, |PT-TEMP| � CANAL Q
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1428.ts
+#EXTINF:0, |PT-TEMP| � http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1797.ts
+#EXTINF:0, |PT-TEMP| � SPORT TV +
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1430.ts
+#EXTINF:0, |PT-TEMP| � SPORT TV + HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1668.ts
+#EXTINF:0, |PT-TEMP| � SPORT TV 1
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1944.ts
+#EXTINF:0, |PT-TEMP| � SPORT TV 1 HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1431.ts
+#EXTINF:0, |PT-TEMP| � Sport TV 1 HD (ALT1)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1933.ts
+#EXTINF:0, |PT-TEMP| � SPORT TV 1 FULL HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1669.ts
+#EXTINF:0, |PT-TEMP| � SPORT TV 2 FULL HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1670.ts
+#EXTINF:0, |PT-TEMP| � SPORT TV 2 HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1436.ts
+#EXTINF:0, |PT-TEMP| � SPORT TV 2
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1437.ts
+#EXTINF:0, |PT-TEMP| � SPORT TV 3 HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1439.ts
+#EXTINF:0, |PT-TEMP| � SPORT TV 3 FULL HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1671.ts
+#EXTINF:0, |PT-TEMP| � SPORT TV 3
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1440.ts
+#EXTINF:0, |PT-TEMP| � SPORT TV 4
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1441.ts
+#EXTINF:0, |PT-TEMP| � SPORT TV 4 HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1672.ts
+#EXTINF:0, |PT-TEMP| � SPORT TV 5
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1442.ts
+#EXTINF:0, |PT-TEMP| � SPORT TV 5 HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1673.ts
+#EXTINF:0, |PT-TEMP| � BTV 1 HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1443.ts
+#EXTINF:0, |PT-TEMP| � BTV 1 FULL HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1675.ts
+#EXTINF:0, |PT-TEMP| � BTV 1
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1674.ts
+#EXTINF:0, |PT-TEMP| � SPORTING TV
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1448.ts
+#EXTINF:0, |PT-TEMP| � A BOLA TV
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1449.ts
+#EXTINF:0, |PT-TEMP| � EUROSPORT 1 HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1450.ts
+#EXTINF:0, |PT-TEMP| � EUROSPORT
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1451.ts
+#EXTINF:0, |PT-TEMP| � EUROSPORT 2
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1452.ts
+#EXTINF:0, |PT-TEMP| � EUROSPORT 2 XTRA HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1453.ts
+#EXTINF:0, |PT-TEMP| � CACAVISION
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1454.ts
+#EXTINF:0, |PT-TEMP| � CACA E PESCA
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1455.ts
+#EXTINF:0, |PT-TEMP| � TOROS TV
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1456.ts
+#EXTINF:0, |PT-TEMP| � KOMBAT SPORT
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1457.ts
+#EXTINF:0, |PT-TEMP| � REAL MADRID TV
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1458.ts
+#EXTINF:0, |PT-TEMP| � CHELSEA TV
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1459.ts
+#EXTINF:0, |PT-TEMP| � MOTORVISION
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1460.ts
+#EXTINF:0, |PT-TEMP| � MOTORS TV
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1461.ts
+#EXTINF:0, |PT-TEMP| � FUEL TV
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1462.ts
+#EXTINF:0, |PT-TEMP| � FIGHT NETWORK
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1463.ts
+#EXTINF:0, |PT-TEMP| � PFC
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1464.ts
+#EXTINF:0, |PT-TEMP| � http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1800.ts
+#EXTINF:0, |PT-TEMP| � TVCINE 1 HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1465.ts
+#EXTINF:0, |PT-TEMP| � TVCINE 2 HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1467.ts
+#EXTINF:0, |PT-TEMP| � TVCINE 3 HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1469.ts
+#EXTINF:0, |PT-TEMP| � TVCINE 4 HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1471.ts
+#EXTINF:0, |PT-TEMP| � TVCINE 1
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1466.ts
+#EXTINF:0, |PT-TEMP| � TVCINE 2
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1468.ts
+#EXTINF:0, |PT-TEMP| � TVCINE 3
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1470.ts
+#EXTINF:0, |PT-TEMP| � TVCINE 4
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1472.ts
+#EXTINF:0, |PT-TEMP| � HOLLYWOOD HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1473.ts
+#EXTINF:0, |PT-TEMP| � HOLLYWOOD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1474.ts
+#EXTINF:0, |PT-TEMP| � FOX MOVIES
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1475.ts
+#EXTINF:0, |PT-TEMP| � MOV HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1476.ts
+#EXTINF:0, |PT-TEMP| � AMC
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1477.ts
+#EXTINF:0, |PT-TEMP| � CINEMUNDO
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1478.ts
+#EXTINF:0, |PT-TEMP| � http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1801.ts
+#EXTINF:0, |PT-TEMP| � TV SERIES HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1479.ts
+#EXTINF:0, |PT-TEMP| � TV SERIES
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1480.ts
+#EXTINF:0, |PT-TEMP| � AXN HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1481.ts
+#EXTINF:0, |PT-TEMP| � AXN WHITE HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1482.ts
+#EXTINF:0, |PT-TEMP| � AXN BLACK HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1483.ts
+#EXTINF:0, |PT-TEMP| � FOX LIVE HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1485.ts
+#EXTINF:0, |PT-TEMP| � FOX LIFE
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1487.ts
+#EXTINF:0, |PT-TEMP| � FOX HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1484.ts
+#EXTINF:0, |PT-TEMP| � FOX CRIME HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1486.ts
+#EXTINF:0, |PT-TEMP| � FOX COMEDY
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1488.ts
+#EXTINF:0, |PT-TEMP| � SYFY
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1489.ts
+#EXTINF:0, |PT-TEMP| � SUNDANCE HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1490.ts
+#EXTINF:0, |PT-TEMP| � http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1804.ts
+#EXTINF:0, |PT-TEMP| � DISNEY JUNIOR
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1491.ts
+#EXTINF:0, |PT-TEMP| � DISNEY CHANNEL
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1492.ts
+#EXTINF:0, |PT-TEMP| � SIC K
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1493.ts
+#EXTINF:0, |PT-TEMP| � CANAL PANDA
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1494.ts
+#EXTINF:0, |PT-TEMP| � BABY TV
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1495.ts
+#EXTINF:0, |PT-TEMP| � BABY FIRST
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1496.ts
+#EXTINF:0, |PT-TEMP| � BIGGS
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1497.ts
+#EXTINF:0, |PT-TEMP| � CARTOON NETWORK
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1498.ts
+#EXTINF:0, |PT-TEMP| � JIM JAM
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1499.ts
+#EXTINF:0, |PT-TEMP| � NICKELODEON
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1500.ts
+#EXTINF:0, |PT-TEMP| � http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1805.ts
+#EXTINF:0, |PT-TEMP| � VH1 CLASSIC
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1502.ts
+#EXTINF:0, |PT-TEMP| � VH1
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1501.ts
+#EXTINF:0, |PT-TEMP| � TRACE TV
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1503.ts
+#EXTINF:0, |PT-TEMP| � MTV PORTUGAL
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1504.ts
+#EXTINF:0, |PT-TEMP| � MTV DANCE
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1505.ts
+#EXTINF:0, |PT-TEMP| � MCM POP
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1507.ts
+#EXTINF:0, |PT-TEMP| � C-MUSIC
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1508.ts
+#EXTINF:0, |PT-TEMP| � AFRO MUSIC
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1509.ts
+#EXTINF:0, |PT-TEMP| � http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1808.ts
+#EXTINF:0, |PT-TEMP| � DISCOVERY HD SHOWCASE
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1510.ts
+#EXTINF:0, |PT-TEMP| � DISCOVERY CHANNEL
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1511.ts
+#EXTINF:0, |PT-TEMP| � MCS EXTREME
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1512.ts
+#EXTINF:0, |PT-TEMP| � TRAVEL CHANNEL HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1513.ts
+#EXTINF:0, |PT-TEMP| � NATIONAL GEOGRAPHIC HD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1514.ts
+#EXTINF:0, |PT-TEMP| � NAT GEO WILD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1515.ts
+#EXTINF:0, |PT-TEMP| � ODISSEIA
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1516.ts
+#EXTINF:0, |PT-TEMP| � HISTORIA
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1517.ts
+#EXTINF:0, |PT-TEMP| � SKY NEWS
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1518.ts
+#EXTINF:0, |PT-TEMP| � FRANCE 24
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1519.ts
+#EXTINF:0, |PT-TEMP| � EURONEWS
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1520.ts
+#EXTINF:0, |PT-TEMP| � BBC WORLD NEWS
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1521.ts
+#EXTINF:0, |PT-TEMP| � BBC WORLD
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1522.ts
+#EXTINF:0, |PT-TEMP| � BBC ENTERTAINMENT
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1523.ts
+#EXTINF:0, |PT-TEMP| � E! ENTERTAINMENT
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1524.ts
+#EXTINF:0, |PT-TEMP| � CBS REALITY
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1525.ts
+#EXTINF:0, |PT-TEMP| � MCS LIFESTYLE
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1526.ts
+#EXTINF:0, |PT-TEMP| � TLC
